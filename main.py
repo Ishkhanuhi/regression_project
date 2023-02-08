@@ -14,6 +14,7 @@ from sklearn.multiclass import OneVsRestClassifier
 def main():
     # df = generate_data()
     # write_csv(df)
+    # correct_descriptions()
     # df = pd.read_csv("cleaned_data.csv")
     # tf_idf_df = calculate_tf_idf(df['description'])
     # save_tf_idf(tf_idf_df)
